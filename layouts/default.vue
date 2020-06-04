@@ -19,7 +19,7 @@ export default {
       clipped: false,
       drawer: false,
       fixed: false,
-      items: [
+      menu: [
         {
           icon: 'mdi-apps',
           title: 'Welcome',
